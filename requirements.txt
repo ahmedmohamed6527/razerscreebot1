@@ -1,4 +1,3 @@
 python-telegram-bot>=21.10
 Pillow>=10.4.0
 requests==2.31.0
-Flask==2.3.3
